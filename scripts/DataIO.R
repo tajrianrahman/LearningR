@@ -5,5 +5,12 @@ library(skimr)
 # Summarize data 
 skim(gapminder)
 
-# Summarize airquality  
+# Summarize air quality  
 skim(airquality)
+
+
+#Summarize data
+skim(gapminder)
+
+
+str(gapminder)
